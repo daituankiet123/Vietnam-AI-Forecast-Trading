@@ -1,0 +1,6 @@
+{
+  "name": "VietnamTradingAI v0.1",
+  "description": "Point-in-time quantitative trading research platform for the Vietnam stock market (HOSE, HNX, UPCoM) featuring purged walk-forward ML models, anti-leakage labels, and realistic backtesting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
